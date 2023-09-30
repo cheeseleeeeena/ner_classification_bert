@@ -1,4 +1,4 @@
-# Task 2: NER Classification (tner/bc5cdr)
+# Task 2: NER Classification ([tner/bc5cdr](https://huggingface.co/datasets/tner/bc5cdr?fbclid=IwAR1iC6IZ3VD2V-vHCxedz549uxolzxC4KekoNTu15zMCAaTlRqt_WIM5mHI))
 
 Using pretrained BERT with PyTorch
 
@@ -23,7 +23,7 @@ git clone https://github.com/cheeseleeeeena/ner_classification_bert.git
 2. Install **required packages**
 
 ```sh
-conda install --yes --file requirements. txt
+conda install --yes --file requirements.txt
 ```
 
 3. Install [**PyTorch**](https://pytorch.org/get-started/locally/#start-locally)
